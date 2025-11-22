@@ -1,6 +1,6 @@
 # Hybrid Speech-to-Text Transcriber
 
-A robust, dual-engine speech-to-text system built in Python. This project solves the trade-off between speed and privacy by allowing users to toggle between a lightweight Cloud API and a high-accuracy Offline Deep Learning Model. :contentReference[oaicite:1]{index=1}
+A robust, dual-engine speech-to-text system built in Python. This project solves the trade-off between speed and privacy by allowing users to toggle between a lightweight **Cloud API** and a high-accuracy **Offline Deep Learning Model**.
 
 ## Features
 
