@@ -42,7 +42,7 @@ pip install SpeechRecognition pyaudio transformers torch librosa soundfile
   + Ubuntu/Debian: `sudo apt-get install python3-pyaudio portaudio19-dev`
   + macOS: `brew install portaudio`
 
-## Uaage
+## Usage
 Run the main script from your terminal:
 ```base
 python speech_transcriber.py
